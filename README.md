@@ -36,8 +36,6 @@ http://erik.eae.net/simplehtmlparser/simplehtmlparser.js
 I have extensively rewritten it as I found the original code almost
 impossible to follow.
 
-This is my first piece of code up on github, I hope I am doing it right!
-
 Worik Stanton
 Waitati
 Ōtepoti
